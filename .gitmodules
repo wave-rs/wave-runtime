@@ -1,0 +1,3 @@
+[submodule "wamr-embed/wasm-micro-runtime"]
+	path = wamr-embed/wasm-micro-runtime
+	url = https://github.com/wave-rs/wasm-micro-runtime.git
